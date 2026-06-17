@@ -1,6 +1,16 @@
-<h1>Hi, I'm Vanessa! <br/><a href="https://github.com/VanessaPlendl">Network Engineering</a>, <a href="https://www.linkedin.com/in/vanessa-plendl/">Cybersecurity</a>, <a href="https://www.youtube.com/@VanessaPlendl">Cloud Architecture</a>
+<h1>Hi, I'm Vanessa! 
+  
+<h2><a href="https://github.com/VanessaPlendl">Network Engineering</a>, <a href="https://www.linkedin.com/in/vanessa-plendl/">Cybersecurity</a>, <a href="https://www.youtube.com/@VanessaPlendl">Cloud Architecture</a>
 
-<h2>👨‍💻 Networking Projects:</h2>
+<h2>📃 Certifications</h2>
+
+![CompTIA Certification](<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="1a20f634-23a9-4ae5-a69a-551f790c40ef" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>)
+
+<a href="https://www.credly.com/badges/1a20f634-23a9-4ae5-a69a-551f790c40ef/public_url">
+  <img src=<"div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="1a20f634-23a9-4ae5-a69a-551f790c40ef" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js">></script>"/>
+</a>
+
+<h2>🌐 Networking Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
@@ -15,6 +25,14 @@
   - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
   - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
   - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
+
+
+<h2>🔐 Cybersecurity Projects:</h2>
+
+<h2>☁️ Cloud Projects:</h2>
+
+<h2>🐍 Python Automation:</h2>
+
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
@@ -24,7 +42,6 @@
 - [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
 - [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
 - [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
 
 <h2> 🤳 Connect with me:</h2>
 
