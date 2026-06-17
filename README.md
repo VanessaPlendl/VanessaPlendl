@@ -4,11 +4,7 @@
 
 <h2>📃 Certifications</h2>
 
-![CompTIA Certification](<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="1a20f634-23a9-4ae5-a69a-551f790c40ef" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>)
-
-<a href="https://www.credly.com/badges/1a20f634-23a9-4ae5-a69a-551f790c40ef/public_url">
-  <img src=<"div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="1a20f634-23a9-4ae5-a69a-551f790c40ef" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js">></script>"/>
-</a>
+- <b>![CompTIA Security+ Certification](https://www.credly.com/badges/1a20f634-23a9-4ae5-a69a-551f790c40ef/public_url")
 
 <h2>🌐 Networking Projects:</h2>
 
