@@ -7,13 +7,14 @@
 <b>[CompTIA Security+ SY0-701](https://www.credly.com/badges/1a20f634-23a9-4ae5-a69a-551f790c40ef/public_url)
 <img src="https://comptiacdn.azureedge.net/webcontent/images/default-source/siteicons/logosecurityplus.svg" alt="CompTIA Security+ Logo" width="40" align= "left">
 
-<h2>🌐 Networking Projects:</h2>
+<h2>🌐 Networking Engineering:</h2>
 
-<h2>🔐 Cybersecurity Projects:</h2>
+<h2>🛡️ Cybersecurity:</h2>
 
-<h2>☁️ Cloud Projects:</h2>
+<h2>🐍 Python & Automation:</h2>
 
-<h2>🐍 Python Automation:</h2>
+<h2>☁️ Cloud:</h2>
+
 
 
 
