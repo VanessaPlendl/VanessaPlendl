@@ -97,7 +97,7 @@ Cloud networking and infrastructure projects exploring AWS, Azure, hybrid enterp
 </p>
 
 <p>
-<a href="https://github.com/VanessaPlendl/cloud-projects">
+<a href="https://github.com/VanessaPlendl/cloud-infrastructure-projects">
 🔗 View Cloud Infrastructure Projects
 </a>
 </p>
