@@ -53,10 +53,6 @@ A hands-on cybersecurity portfolio focused on Purple Team operations, adversary 
 </p>
 
 <p>
-<em>🚧 Coming Soon</em>
-</p>
-
-<p>
 <a href="https://github.com/VanessaPlendl/purple-team-labs">
 🔗 View Purple Team Labs
 </a>
@@ -73,10 +69,6 @@ Python automation projects designed to simplify networking and cybersecurity tas
 </p>
 
 <p>
-<em>🚧 Coming Soon</em>
-</p>
-
-<p>
 <a href="https://github.com/VanessaPlendl/python-network-automation">
 🔗 View Python Network Automation
 </a>
@@ -90,10 +82,6 @@ Python automation projects designed to simplify networking and cybersecurity tas
 
 <p>
 Cloud networking and infrastructure projects exploring AWS, Azure, hybrid enterprise networking, Infrastructure as Code, cloud security, and automation.
-</p>
-
-<p>
-<em>🚧 Coming Soon</em>
 </p>
 
 <p>
