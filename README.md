@@ -7,8 +7,6 @@
 <a href="#cloud-technologies">Cloud Technologies</a>
 </h2>
 
-<br>
-
 <h2>📃 Certifications</h2>
 
 <b>[CompTIA Security+ SY0-701](https://www.credly.com/badges/1a20f634-23a9-4ae5-a69a-551f790c40ef/public_url)
