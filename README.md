@@ -1,6 +1,6 @@
 <h1>Hi, I'm Vanessa! 
   
-<h2><a href="https://github.com/VanessaPlendl">Network Engineering</a>, <a href="https://www.linkedin.com/in/vanessa-plendl/">Cybersecurity</a>, <a href="https://www.youtube.com/@VanessaPlendl">Cloud Architecture</a>
+<h2><a href="https://github.com/VanessaPlendl">Network Engineering</a>, <a href="https://www.linkedin.com/in/vanessa-plendl/">Cybersecurity</a>, >Python Automation</a>, >Cloud Technologies</a>
 
 <h2>📃 Certifications</h2>
 
@@ -16,8 +16,22 @@ A realistic Cisco Packet Tracer portfolio documenting the growth of <strong>Padd
 </p>
 
 <p>
-<a href="https://github.com/VanessaPlendl/Network-Engineering-Labs">
+<a href="https://github.com/VanessaPlendl/paddle-summit-enterprise-network">
 🔗 View Enterprise Network Portfolio
+</a>
+</p>
+
+<br>
+
+<h3>🔧 Cisco Network Engineering Lab Collection</h3>
+
+<p>
+A collection of standalone Cisco Packet Tracer labs completed while studying for the Cisco CCNA certification. These labs focus on switching, routing, VLANs, OSPF, DHCP, NAT/PAT, ACLs, IPv6, wireless networking, and troubleshooting.
+</p>
+
+<p>
+<a href="https://github.com/VanessaPlendl/cisco-labs">
+🔗 View Cisco Network Engineering Lab Collection
 </a>
 </p>
 
