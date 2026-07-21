@@ -40,8 +40,6 @@ A collection of standalone Cisco Packet Tracer labs completed while studying for
 </a>
 </p>
 
-<h2>🛡️ Cybersecurity:</h2>
-
 <h2>🛡️ Cybersecurity</h2>
 
 <h3>🟣 Purple Team Labs</h3>
