@@ -58,12 +58,41 @@ A hands-on cybersecurity portfolio focused on Purple Team operations, adversary 
 </a>
 </p>
 
--->
-
 <h2>🐍 Python & Automation:</h2>
 
-<h2>☁️ Cloud:</h2>
+<h3>⚙️ Python Network Automation</h3>
 
+<p>
+Python automation projects designed to simplify networking and cybersecurity tasks including configuration generation, log analysis, data parsing, device automation, and workflow scripting.
+</p>
+
+<p>
+<em>🚧 Coming Soon</em>
+</p>
+
+<p>
+<a href="https://github.com/VanessaPlendl/python-network-automation">
+🔗 View Python Network Automation
+</a>
+</p>
+
+<h2>☁️ Cloud Technologies</h2>
+
+<h3>☁️ Cloud Infrastructure Projects</h3>
+
+<p>
+Cloud networking and infrastructure projects exploring AWS, Azure, hybrid enterprise networking, Infrastructure as Code, cloud security, and automation.
+</p>
+
+<p>
+<em>🚧 Coming Soon</em>
+</p>
+
+<p>
+<a href="https://github.com/VanessaPlendl/cloud-projects">
+🔗 View Cloud Infrastructure Projects
+</a>
+</p>
 
 
 
