@@ -1,6 +1,11 @@
 <h1>Hi, I'm Vanessa! 
   
-<h2><a href="https://github.com/VanessaPlendl">Network Engineering</a>, <a href="https://www.linkedin.com/in/vanessa-plendl/" • Cybersecurity • Python Automation • Cloud Technologies
+<h2>
+<a href="#network-engineering">Network Engineering</a> •
+<a href="#cybersecurity">Cybersecurity</a> •
+<a href="#python-automation">Python Automation</a> •
+<a href="#cloud-technologies">Cloud Technologies</a>
+</h2>
 
 <h2>📃 Certifications</h2>
 
