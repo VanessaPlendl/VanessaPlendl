@@ -12,7 +12,7 @@
 <h3>🏔️ Paddle Summit Co. Enterprise Network</h3>
 
 <p>
-A realistic Cisco Packet Tracer portfolio documenting the growth of <strong>Paddle Summit Co.</strong> from a single retail location into a secure, scalable enterprise network. This project demonstrates enterprise network design, routing, switching, security, documentation, and troubleshooting through a series of business-driven implementations.
+A realistic Cisco Packet Tracer portfolio documenting the growth of <strong>Paddle Summit Co.</strong> from a single retail location into a secure, scalable enterprise network through business-driven networking projects.
 </p>
 
 <p>
