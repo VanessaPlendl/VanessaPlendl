@@ -58,6 +58,8 @@ A hands-on cybersecurity portfolio focused on Purple Team operations, adversary 
 </a>
 </p>
 
+<br>
+
 <h2>🐍 Python & Automation:</h2>
 
 <h3>⚙️ Python Network Automation</h3>
@@ -75,6 +77,8 @@ Python automation projects designed to simplify networking and cybersecurity tas
 🔗 View Python Network Automation
 </a>
 </p>
+
+<br>
 
 <h2>☁️ Cloud Technologies</h2>
 
@@ -94,7 +98,7 @@ Cloud networking and infrastructure projects exploring AWS, Azure, hybrid enterp
 </a>
 </p>
 
-
+<br>
 
 <h2> 🤳 Connect with me:</h2>
 
